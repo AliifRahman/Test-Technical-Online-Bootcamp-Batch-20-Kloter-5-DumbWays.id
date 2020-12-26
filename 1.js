@@ -22,9 +22,7 @@ function hitungGaji(nama, gaji, bulan, tunjangan) {
   Tunjangan : 500000
   BPJS : ${hitungBpjs(gaji)}
   Pajak :${hitungPajak(gaji)}
-  ===========================================
   Gaji Bersih : ${resultGaji}
-  ===========================================
   Total Gaji Bersih : ${totalGajiBersih}
   
   `);
