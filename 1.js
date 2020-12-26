@@ -24,7 +24,6 @@ function hitungGaji(nama, gaji, bulan, tunjangan) {
   Pajak :${hitungPajak(gaji)}
   Gaji Bersih : ${resultGaji}
   Total Gaji Bersih : ${totalGajiBersih}
-  
   `);
 }
 
